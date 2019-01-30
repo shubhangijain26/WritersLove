@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel=stylesheet type=text/css href="a.css">
+
+</head>
+<body>
+<table width="100%">
+<tbody><tr colspan="*,*,*">
+	
+	<th>“The Bogey Beast” by Flora Annie Steel</th><th>“The Tale of Johnny Town-Mouse” by Beatrix Potter</th>
+	<th> “The Night Train at Deoli” by Ruskin Bond</th>
+</tr>
+<tr>
+	<td>
+	<b>Reading Level: Very Easy</b>
+
+A woman finds a pot of treasure on the road while she is returning from work. Delighted with her luck, she decides to keep it. As she is taking it home, it keeps changing. However, her enthusiasm refuses to fade away.
+
+<b>>What Is Great About It: </b>The old lady in this story is one of the most cheerful characters anyone can encounter in English fiction. Her positive disposition (personality) tries to make every negative transformation seem like a gift, and she helps us look at luck as a matter of perspective rather than events.
+	</td>
+<td>
+	
+	<pre>There's beauty in struggle,
+There's feeling in pain.
+For every painstaking mistake,
+There are lessons you can name.
+
+No one is excluded
+From life's many trials,
+Not even a scrape on the knee
+From an innocent child.
+
+It's true, most lessons do hurt.
+Some more than others,
+Some short and temporary,
+Some smothering with suffering.
+
+Some beautiful with love,
+Like a baby and mother.
+Some are a constant battle,
+Like sister and brother.
+
+There are lessons we must learn
+About how to love one another.
+	</pre>
+	</td>
+<td>
+	
+	<pre>For every time I've failed,
+For every time I've screwed up,
+For every time I've said "I'm Sorry,"
+And for every time I've not.
+
+For every heart I've broken,
+For every stone unturned,
+For every one I've damaged
+Due to an action or spoken word.
+
+No, I'm not a loser.
+I know I am no failure.
+Some things take longer to learn.
+In the end, I'll have things mastered.
+
+Regret? I've had aplenty.
+Self-loathing? I've lived that, too.
+Walked away too many times,
+Stepping closer to something new.
+
+I know where I'm going.
+I'm taking longer than I should,
+But these setbacks are not failures,
+Only detours through Wisdom's Woods.
+	</pre>
+	</td>
+	
+</tr>
+<tr>
+	
+	<th>If You Must Go</th>
+	<th>Stand Strong</th>
+	<th>Listen To Your Child's Stories</th>
+</tr>
+<tr>
+	<td>
+	<pre>If you must go, then go for a while
+Remember that first step is a hard traveled mile.
+
+To learn what lessons life has in store,
+You must be willing to open each door.
+
+Don't be afraid to experience something new
+For each experience will be a benefit to you.
+
+Never live your life in the past
+Enjoy every day as if it were your last
+
+Mistakes you will make along the way
+Learn from them, and you'll be okay
+
+Set your goals high and strive for them
+As long as you try, you'll never be condemned
+
+Be kind and respect the people you meet
+For they may be the ones to make life complete
+
+Be sincere in everything you do
+And treat others as you wish they would you
+
+Whatever you do, make sure you're content
+For the last thing you want is something to resent
+
+So if you must go, then go for a while
+And when you return, return with a smile.
+	</pre>
+	</td>
+	<td>
+	
+	<pre>When things seem difficult miserable
+Life is turning away from you
+Intimidated and worn out you remain
+In darkness at a corner you examine
+Watching the sky as it disappears
+Reminding the lost beloved ones
+How beautiful and caring they were
+Vanishing without saying goodbye
+Shortening your long life span
+And leaving you destitute and lonely
+Deeply you wonder
+How life can really be unfair
+To honest and good people like you
+But all you let go off
+And focus to mend your life
+And strengthen your heart
+With good and caring friends on your side
+Opening the picture of brightness
+Knowing GOD holds your hand
+Leading you to your success
+Stars embracing the whole sky
+And you know your journey has started
+In pursuit of your purpose
+Slowly matching from dusk to dawn
+With smiles and determination
+In whispers you read your heart
+ALWAYS STAND STRONG
+	</pre>
+	</td>
+	<td>
+	
+	<pre>First day Lily arrived late from school
+Mom thought she was playing the fool
+Angrily, what happened asked she
+Lily replied "A monster detained me"
+Mom said "That is so absurd!"
+There are no monsters in this world
+
+The second day her schoolwork was in a mess
+Mom thought that she was being careless
+She asked "What were you doing all day?
+From the monster, I was trying to hide away
+Mom said "This is so absurd!"
+There are no monsters in this world
+
+The third day Lily refused to go at all
+Mom felt it was just a tantrum small
+She threatened her with a beating
+Lily replied "The monster may be waiting"
+Mom said "This is so absurd!"
+There are no monsters in this world
+
+The fourth day, Lily complained of a stomach ache
+Mom said please do not fake
+She said I am tired of your repeated lies
+Lily replied "The monster will make me cry"
+Mom said "This is so absurd!"
+There are no monsters in this world
+
+The fifth day, Lily fell ill and took to her bed
+Mom forced her to go to school instead
+She ranted at her, asked her why
+The monster will hurt me, I shall surely die
+Mom said "This is so absurd!"
+There are no monsters in this world
+
+For this little girl, there was no sixth sunrise
+For her new teacher was a monster in disguise
+He caught her alone and took her life
+After torturing her for hours with a knife
+Monsters are real, the mom realized too late
+If only she could have saved her baby from this fate
+
+So listen to your child's stories really well
+About her little anxieties they may tell
+A sordid tale may be hidden in her tears,
+Lend a patient ear to her innocent fears.
+Pay attention to her words and understand
+For her safety and security lie in your hands.
+	</pre>
+	</td>
+</tr>
+</tbody></table>
+
+
+</body></html>

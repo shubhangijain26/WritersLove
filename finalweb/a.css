@@ -1,0 +1,15 @@
+
+th,td{width:1000px;}
+#d1{font-size:30px;color:white;background-color:red;width:70%;margin-left:3%;text-align:center;}
+#d2{font-size:30px;color:red;}
+#d3{font-size:35px;color:black;font-family:arial verdana; text-align:center; text-shadow: 0 0 20px black;}
+#d4{font-size:40px;color:black;text-align:center;}
+#d5{font-size:15px;color:black;}
+#d6{color:red ;font-family:comic sans MS;font-size:50px;text-align:center;}
+td { vertical-align: top;
+    background-repeat: no-repeat;background-position: center;}
+th{color:white;background-color:red;margin-left:3%;font-size:20px;text-align: left;padding: 15px;border-bottom: 1px solid #ddd;}
+td {text-align: left;padding: 15px;border-bottom: 1px solid #ddd;font-style:italic;font-weight:bold;font-size:13px;}
+td:hover {background-color: #ddd;}
+
+.selector{ position: fixed; top: 0; left: 0;padding:0px 20px; width: 100%;background-color:white;}

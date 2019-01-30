@@ -1,0 +1,86 @@
+<!Doctype html>
+<html>
+<head>
+<script>
+function abc() {
+var x = myform.fname.value;
+if (x =="") {
+alert("Name must be filled");
+return false;
+}
+var p1=myform.p1.value;
+var p2=myform.p2.value;
+if(p1!=p2)
+{
+	alert('Password and Confirm Password does not match');
+	return false;
+}
+var e=myform.e.value;
+if(e=="")
+{
+	alert("Email must be filled");
+return false;
+}
+}
+</script>
+</head>
+	
+<body style="background:url(back1.jpg) no-repeat ;background-size: 100% 100%;" >
+	<marquee height="150" width="500" scrolldelay="50" scrollamount="7" hspace="300" vspace="100" loop="9" direction="right">
+	
+		<p style="color:black;background-color:#d4aaaa;font-size:50px;text-align:center;">Sign up</p>
+		</marquee>
+<br><br><br><br><br><br>
+<fieldset style="width:40% ;margin-left:30%;padding:20px;background:url(w.jpg) no-repeat ;background-size: 100% 100%;">
+	<form name="myform" onsubmit="return abc()">
+		<input type="text" placeholder="First Name" name="fname">
+ 		 <input type="text" placeholder="Last Name"><br><br>
+		<input type="email" name="e" placeholder="Enter Your Email" style="width:300px;"><br><br>
+		<input type="Password" name="p2" placeholder="Password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">
+		<input type="Password" name="p1" placeholder="Confirm Password"><br><br>
+		<input type="text" placeholder="Enter Phone Number" pattern="[0-9]{10}"><br><br>
+		<select>
+			<option>Birth Month</option>
+			<option>jan</option>
+			<option>feb</option>
+			<option>mar</option>
+			<option>apr</option>
+			<option>may</option>
+			<option>jun</option>
+			<option>jul</option>
+			<option>aug</option>
+			<option>sep</option>
+			<option>oct</option>
+			<option>nov</option>
+			<option>dec</option>
+	        </select>
+		<input type="text" placeholder="Day"><input type="text" placeholder="Year"><br><br>
+		gender <input type="radio" name="gender">Male
+		<input type="radio" name="gender">Female <br><br>
+		<input type="submit" value="Create Account" style="width:150px;height:60px;background-color:#82BAD4;font-size:18px;">
+</form>
+</fieldset>
+		<font color="#4F113A" face="arial verdana" size="5px" align="center"><b>
+	<PRE>Already have an account?<a href="www.google.com">Sign In</a>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

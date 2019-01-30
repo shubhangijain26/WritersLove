@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<body >
+<style>
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
+</style>
+<script type="text/javascript">
+function f1()
+{
+	
+	document.getElementById("1").style.color = "black";
+}
+function f2()
+{
+	alert('coming soon');
+	document.getElementById("2").style.color = "black";
+}
+function f3()
+{
+	document.getElementById("3").style.color = "black";
+}
+
+</script>
+<nav style="text-align:center;font-size:40px">
+	<a href="f3.htm" target="s1">About us</a><br><br>
+	<a href="poems.htm" target="s1">Poems</a><br><br>
+	<a href="stories.htm" target="s1"><span ondblclick="f1()" id="1">Stories</span></a><br><br>
+	<a href="articles.htm" target="s1"><span ondblclick="f2()" id="2">Articles</span></a><br><br>
+	<a href="contactus.html" target="s1"><span ondblclick="f3()" id="3">Contact us</span></a><br><br>
+</nav>
+</body>
+</html>
